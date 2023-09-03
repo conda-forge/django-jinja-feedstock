@@ -1,11 +1,11 @@
-About django-jinja
-==================
+About django-jinja-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/django-jinja-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/niwinz/django-jinja
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/django-jinja-feedstock/blob/main/LICENSE.txt)
 
 Summary: Jinja2 templating language integrated in Django.
 
